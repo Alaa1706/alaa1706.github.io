@@ -1,0 +1,27 @@
+body {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(lplp.jpg);
+   
+}
+.navbar{
+    text-align: right;
+
+}
+
+#title {
+    color: rgb(212, 255, 0);
+}
+h1 {
+    text-align: center;
+}
+
+.navbar
+ {
+background-color: rgb(246, 255, 0);
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+}
+
